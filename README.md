@@ -25,8 +25,6 @@ Aquí puedes ver algunas de las tecnologías con las que trabajo (¡puedes quita
 
 ## 📈 Proyectos Destacados
 
-> 💡 *Espacio ideal para captar la atención de los reclutadores. Añade tus 2 o 3 mejores proyectos aquí.*
-
 ### 🚀 [Juego de Cesta de Frutas]
 * **Descripción:** Proyecto para el curso de Harvard de Introduction to Computer Science, usando Scracth para hacer un juego.
 * **Stack:** Scracth.
