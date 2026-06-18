@@ -16,6 +16,7 @@ Aquí puedes ver algunas de las tecnologías con las que trabajo (¡puedes quita
 
 ### Backend & Bases de Datos
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
