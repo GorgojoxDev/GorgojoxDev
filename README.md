@@ -7,7 +7,7 @@ Un apasionado del desarrollo de software al que le encanta transformar líneas d
 
 ## 🛠️ Tecnologías y Herramientas
 
-Aquí puedes ver algunas de las tecnologías con las que trabajo (¡puedes quitar o añadir las tuyas!).
+Aquí puedes ver algunas de las tecnologías con las que trabajo.
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
