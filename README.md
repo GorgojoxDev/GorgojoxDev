@@ -62,7 +62,7 @@ Estoy siempre abierto a nuevas oportunidades laborales, colaboraciones en proyec
 
 * 💼 **LinkedIn:** [Jorge Luis Marchena Diaz](https://www.linkedin.com/in/gorgojoxdev/)
 * 📧 **Email:** [devjorgemarchena1992@gmail.com]
-* 🌐 **Portafolio:** [En construcción...]
+* 🌐 **Portafolio:** [https://gorgojoxdev.github.io/]
 
 <p align="center">
   <sub>Hecho con amor desde Galicia, tomandome un ☕ y 💻 por Jorge Marchena</sub>
